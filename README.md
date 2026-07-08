@@ -1,4 +1,4 @@
-# 📄 InsightPDF
+# 📄 QueryDoc
 
 A RAG-based document Q&A system that lets you upload one or more PDFs and ask natural-language questions, with source-cited answers.
 
